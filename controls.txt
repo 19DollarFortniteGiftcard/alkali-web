@@ -1,0 +1,5 @@
+x - punch
+z - kick
+c - special
+enter - continue/cutscene
+1,2,3 - use items
